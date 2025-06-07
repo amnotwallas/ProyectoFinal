@@ -1,8 +1,13 @@
 ## Proyecto Final - Inventario iOS
 
 Aplicación móvil iOS desarrollada en Swift que permite gestionar un inventario de productos mediante una interfaz moderna, con autenticación de usuarios usando Firebase y operaciones CRUD conectadas a una API REST externa.
+## 🎥 Demostración en video
 
-🛠️ Tecnologías utilizadas
+Puedes ver el proyecto funcionando en el siguiente enlace:
+
+👉 [Video del proyecto funcionando](https://drive.google.com/file/d/1s6U_my5YWP7LjZjaYvvrneegHDl-7MZb/view)
+
+## 🛠️ Tecnologías utilizadas
 
 - Swift 5
 - UIKit
