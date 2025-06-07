@@ -1,0 +1,27 @@
+# Xcode
+*.xcworkspace
+*.xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+/.build/
+/.swiftpm/
+
+# Firebase
+GoogleService-Info.plist
+
+# Build files
+build/
+DerivedData/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Others
+*.log
+*.tmp
+*.swp
+.DS_Store
