@@ -43,14 +43,15 @@ ProyectoFinal/
 ├── GoogleService-Info.plist  # Configuración de Firebase
 ```
 ## Cómo ejecutar el proyecto
-
 1. Abre ProyectoFinal.xcodeproj o .xcworkspace en Xcode.
 2. Asegúrate de tener CocoaPods instalados si tu proyecto lo requiere.
 3. Instala dependencias si es necesario:
-   pod install
-4. Configura tu archivo GoogleService-Info.plist para conectar Firebase (ya incluido).
+```bash
+pod install
+```
+4. Configura tu archivo GoogleService-Info.plist para conectar Firebase.
 5. Conecta un simulador o dispositivo real.
-6. Ejecuta el proyecto (Cmd + R).
+6. Ejecuta el proyecto ```(Cmd + R).```
 
 ## API REST utilizada
 
